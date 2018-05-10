@@ -1,6 +1,5 @@
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
-   intro
+   help/tr/system_requirement
+   help/tr/installation_steps
