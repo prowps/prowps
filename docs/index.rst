@@ -4,5 +4,5 @@ Yardım
 .. toctree::
 
    setup
-   preparation
-   using
+   prep
+   usage
