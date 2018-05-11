@@ -3,6 +3,6 @@ Kurulum
 
 .. toctree::
 
-   setup/requirement.rst
+   setup/requirements.rst
    setup/installsteps.rst
    setup/firstrun.rst
