@@ -1,2 +1,0 @@
-Mikro Aktarım Yapılandırması
-============================
