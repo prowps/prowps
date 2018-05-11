@@ -1,4 +1,11 @@
-.. toctree::
-	:maxdepth: 2
+Table of Contents
+-----------------
 
-	all-about-me
+.. toctree::
+
+   markup
+   options
+   methods
+   events
+   keyboard
+   i18n
