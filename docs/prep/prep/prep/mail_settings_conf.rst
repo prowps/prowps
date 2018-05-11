@@ -1,2 +1,0 @@
-Mail Ayarları Yapılandırması
-============================
