@@ -3,6 +3,6 @@
 
 .. toctree::
 
-   Setup
-   Preparation
-   Using
+   setup
+   preparation
+   using
