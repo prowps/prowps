@@ -1,11 +1,8 @@
-Table of Contents
+İçerik
 -----------------
 
 .. toctree::
 
-   markup
-   options
-   methods
-   events
-   keyboard
-   i18n
+   Setup
+   Preparation
+   Using
