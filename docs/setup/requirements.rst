@@ -15,7 +15,8 @@ Sitemiz üzerinden dağıtılan çalıştırılabilir paketlerimizde Sqlite veri
 
 Özetlersek:
 
-1. LivServer Sunucu Programı ( Windows için dotnet framework / Linux, Mac için Mono Framework )
+1. LivServer Sunucu Programı 
+   ( Windows için dotnet framework / Linux, Mac için Mono Framework )
 2. LivClient İstemci programı ( Web sunucuya ihtiyaç duymaktadır. Kurulum paketinde Windows için "cassini", Linux, Mac için "xsp" sunucu konfigure edilmiştir. )
 3. Veritabanı ( default Sqlite, diğer veritabanı sistemleri tercihe bağlı )
 
