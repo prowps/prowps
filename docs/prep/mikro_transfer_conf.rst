@@ -30,13 +30,14 @@ PROWPS üzerinde Mikro veritabanı erişim bilgilerini tanımlamak.
   * Son olarak yine aynı uygulama üzerinde sol menüden SQL Server Services seçimine bağlı sağ tarafta açılan liste üzerinde SQL Server servisini sağ tıklayarak yeniden başlatıyoruz.
   
   .. image:: img/mssql_int_4.png
-  
+     :align: center  
   .. image:: img/mssql_int_5.png
-  
+     :align: center  
   .. image:: img/mssql_int_6.png  
-  
+     :align: center  
   .. image:: img/mssql_int_7.png
-  
+     :align: center
+     
 **3. PROWPS üzerinde Mikro veritabanı erişim bilgilerini tanımlamak**
 
   * PROWPS sunucu programının bulunduğu klasörde (prowps_server) yer alan livserver.exe.config isimli dosyayı metin editörü ile açıyoruz.
