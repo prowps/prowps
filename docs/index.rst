@@ -1,6 +1,7 @@
-ProWPS Yan Sanayi & Tedarikçi Portalı Kullanım Klavuzu
-------------------------------------------------------
-
+ProWPS Yan Sanayi & Tedarikçi Portalı 
+=====================================
+Kullanım Klavuzu
+----------------
 .. toctree::
 
    setup
