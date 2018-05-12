@@ -16,9 +16,9 @@ PROWPS üzerinde Mikro veritabanı erişim bilgilerini tanımlamak.
   * Uygulamanın sol menüsünü kullanarak Veritabanı sunucusu > Security > Logins adımlarını takip ediyoruz, Logins menü adımı üzerinde iken farenin sağ tuşunu kullanarak işlem menüsünün gelmesini sağlıyoruz. Gelen menüden New Login seçeneğini seçiyoruz.
   * Yapılan seçim sonucu karşımıza gelen yeni kullanıcı tanımlama diyaloğunda entegrasyonda kulllanmak üzere yeni bir kullanıcı tanımı yapıyoruz. Genel sekmesinde kullanıcı doğrulama seçeneği olarak SQL Server autantication 'ı seçtikten sonra yeni bir kullanıcı adı ve şifresi belirliyoruz. Ardından User Mapping sekmesine geçerek ilgili kullanıcı için Mikro veritabanlarına db_owner yetkisi tanımlıyoruz. Diğer seçenekler varsayılan ayarlarında kalabilir, resimleri takip edebilirsiniz.
   
-  | .. image:: img/mssql_int_1.png
-  | .. image:: img/mssql_int_2.png
-  | .. image:: img/mssql_int_3.png
+  .. image:: img/mssql_int_1.png |
+  .. image:: img/mssql_int_2.png
+  .. image:: img/mssql_int_3.png
   
 **2. Mikro veritabanına ağ üzerinden erişimi aktive etmek**
 
