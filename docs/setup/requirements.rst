@@ -21,5 +21,5 @@ Sitemiz üzerinden dağıtılan çalıştırılabilir paketlerimizde Sqlite veri
 3. Veritabanı ( default Sqlite, diğer veritabanı sistemleri tercihe bağlı )
 
 Notlar:
-Çalıştırılabilir paketimizi sorunsuz kullanmak için dotnet framework 4.5' i yüklemelisiniz.
-Sunucu, Client uygulamamız Mono framework ile Linux üzerinde test edilmiştir.
+   Çalıştırılabilir paketimizi sorunsuz kullanmak için dotnet framework 4.5' i yüklemelisiniz.
+   Sunucu, Client uygulamamız Mono framework ile Linux üzerinde test edilmiştir.
