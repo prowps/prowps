@@ -9,12 +9,15 @@ Windows kullanıcıları ise sırasıyla alttaki adımları izleyerek geliştirm
   * http://www.msys2.org/ adresinden msys2 programını download ediyoruz.
   * Programın kurulumunu yaptıktan sonra uygulamayı çalıştırıyoruz (karşınıza uygulamanın konsolu açılacak).
   * Konsolda sırasıyla alttaki komutları veriyoruz.
-  * * pacman -Suy
-  * * pacman -S mingw-w64-i686-gtk3 mingw-w64-i686-python2-gobject mingw-w64-i686-python3-gobject
-  * * pacman -S mingw32/mingw-w64-i686-gtksourceview3 3.24.8-1
-  * * pacman -S mingw32/mingw-w64-i686-python3-lxml 4.1.0-1
+  
+   * pacman -Suy
+   * pacman -S mingw-w64-i686-gtk3 mingw-w64-i686-python2-gobject mingw-w64-i686-python3-gobject
+   * pacman -S mingw32/mingw-w64-i686-gtksourceview3 3.24.8-1
+   * pacman -S mingw32/mingw-w64-i686-python3-lxml 4.1.0-1
+  
   * Msys2 programını kurduğunuz klasörün altında yer home/kullanıcı dizinine livdevelop klasörünü kopyalıyoruz.
   * Kurulum burada son bulmakta, kullanım içinse:
-  * * Msys2 konsolunda alttaki komutları vererek Livdevelop' u başlatıyoruz.
-  * * * cd livdevelop
-  * * * python3 livdevelop.py
+  * Msys2 konsolunda alttaki komutları vererek Livdevelop' u başlatıyoruz.
+   
+   * cd livdevelop
+   * python3 livdevelop.py
