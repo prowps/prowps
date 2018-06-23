@@ -1,5 +1,5 @@
-İlk Açılış
-==========
+Programı Başlatma
+=================
 Programı sitemiz download linki vasıtasıyla indirdikten sonra gelen "zip" paketi bilgisayarımızda uygun bir konuma açıyoruz. Oluşturduğumuz bu yeni klasörü açtığımızda karşımıza şekilde gibi bir dizin yapısı çıkıyor.
 
 .. image:: img/firstrun.png
