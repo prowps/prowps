@@ -1,6 +1,6 @@
 Geliştirme Ortamını Başlatma
 ============================
-Uygulama tasarım aracı olan "livdevelop" python programlama dili kullanılarak geliştirilmektedir. Uygulamayı çalıştırabilmek için sisteminizde python3 programı ile beraber gtksourceview ve lxml komponentlerininde yüklü olması gerekmektedir. Livdevelop programımızın arayüz tasarımında Gtk3 kullanılmaktadır.
+Uygulama tasarım aracı olan "livdevelop" python programlama dili kullanılarak geliştirilmektedir. Uygulamayı çalıştırabilmek için sisteminizde python3 programı ile beraber gtksourceview ve lxml python kütüphanelerininde yüklü olması gerekmektedir. Livdevelop programımızın arayüz tasarımında Gtk3 kullanılmaktadır.
 
 Birçok Linux dağıtımda python3 ve gtk3 programları kurulu olarak gelmektedir. Linux kullanıcıları sistemlerinde iki ana programın haricinde gtksourceview ve lxml python kütüphanelerinin de kurulu olduğundan emin olduktan sonra kurulum paketinden çıkan kısayolu başlatarak geliştirme ortamına erişebilirler.
 
