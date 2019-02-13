@@ -18,4 +18,5 @@ Listeden bir sipariş satırı seçilip kalem butonu yardımı ile sipariş içe
 .. image:: img/order_confirm_3.png
    :align: center
 
+Açılan detay ekranda üstte siparişe ait genel bilgiler, sol altta sipariş kalemleri ve sağ altta ise sipariş kalemlerine ait teyit bilgileri görülebilmektedir. Sipariş kalemleri teyit durumlarına göre renklendirilmektedir. İlk bakışta kalem renklerinde teyit talebinde bulunduğunuz kalemlere ilişkin yanıtlanmamış, yanıtlanmış yada onaylanmış durumları görebilirsiniz. 
 
