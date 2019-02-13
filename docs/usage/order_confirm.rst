@@ -27,5 +27,5 @@ Kalemler listesinden açık statüde yada cevabınız beklenen kalemi seçip , s
 .. image:: img/order_confirm_4.png
    :align: center
 
-
+Son olarak yaptığınız termin taleplerini ve onaylarınızı sağ üst köşede bulunan disket butonuyla kaydetmelisiniz. Kaydetme öncesi "Kayıtta mail gönder" tikini atmanız halinde ise kayıt esnasında girdiğiniz termin taleplerine ilişkin Müşteriye (Sağlayıcıya) mail gönderim aksiyonunu tetikleyebilirsiniz.
 
