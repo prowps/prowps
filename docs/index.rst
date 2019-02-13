@@ -6,4 +6,5 @@ Kullanım Klavuzu
 
    setup
    prep
+   manage
    usage
