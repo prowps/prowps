@@ -13,4 +13,9 @@ Bu uygulama ile Müşteriden (Sağlayıcıdan) gelen siparişler görülebilir, 
    
 Uygulama çalıştırıldığında açılış ekranında Müşteride (Sağlayıcıda) bekleyen açık siparişler listelenecek, istenirse araç çubuğunda bulunan büyüteç vasıtasıyla arama işlevi çeşitli kriterler dahilinde özelleştirebilmektedir. Açılışta yada arama sonucu filtrelenen liste üzerinde bulunan Sipariş Şeması kolonunda yer alan linkler vasıtasıyla seçilen siparişlerin istenen formatta dışa aktarımı sağlanabilir.
 
+Listeden bir sipariş satırı seçilip kalem butonu yardımı ile sipariş içeriği görüntülenebilir.
+
+.. image:: img/order_confirm_3.png
+   :align: center
+
 
