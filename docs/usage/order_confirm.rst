@@ -20,7 +20,12 @@ Listeden bir sipariş satırı seçilip kalem butonu yardımı ile sipariş içe
 
 Açılan detay ekranda üstte siparişe ait genel bilgiler, sol altta sipariş kalemleri ve sağ altta ise sipariş kalemlerine ait teyit bilgileri görülebilmektedir. Sipariş kalemleri teyit durumlarına göre renklendirilmektedir. İlk bakışta kalem renklerinde teyit talebinde bulunduğunuz kalemlere ilişkin yanıtlanmamış, yanıtlanmış yada onaylanmış durumları görebilirsiniz. 
 
-*** Beyaz renkte yada kesin renkte olan kalemler talep girmediğiniz müddetçe tarafınızdan kabul edilmiş sayılmaktadır. ***
+*** Beyaz renkte yada kesin renkte olan kalemler talep girmediğiniz müddetçe tarafınızca kabul edilmiş sayılmaktadır.
+
+Kalemler listesinden açık statüde yada cevabınız beklenen kalemi seçip , sol taraf teyit durumunu görüntüleyebilirsiniz. Teyit durumunda yeni bir talep girişi için istediğiniz yeni termini ve açıklamınızı girdikten sonra "Onaylamadan Güncelle" butonuna basarsanız teyit talebiniz Müşteriye (Sağlayıcıya) bildirilir ve Müşteri dönüşüne göre aksiyonlarınızı alabilirsiniz. Termin grubunda yer alan "Onayla" butonu ilede Müşteri terminini onaylayabilirsiniz.
+
+.. image:: img/order_confirm_4.png
+   :align: center
 
 
 
