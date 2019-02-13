@@ -3,3 +3,7 @@ Sipariş Teyitleri
 
 Programda yer alan Tedarikçi Uygulamaları > Sipariş Teyitleri menü adımı ile ilgili uygulamaya erişilebilir.
 
+.. image:: img/order_confirm_1.png
+   :align: center
+   
+Bu uygulama ile Müşteriden (Sağlayıcıdan) gelen siparişler izlenebilir, istenirse siparişlerin çeşitli formatlarda içeriği alınabilir ve sipariş kalemlerine ilişkin teyit yazışmaları yapılabilir.
