@@ -16,7 +16,7 @@ Bu uygulama üzerinden gerçekleşen veya planlanan sevkiyat bilgilerini sisteme
 1. Açık kalemler listesinden sevkiyata konu olan kalemlerin seçimi
 2. Kutu ve palet barkodlarının düzenlenmesi
 3. İrsaliye numrası girilerek sevk belgelerinin sisteme kaydı
-4. **Asn çekimi (diğer bir konu başlığında) anlatılacak**
+4. **Asn çekimi**
 
 Şimdi sırasıyla bu işlemlerin nasıl yapıldığını inceleyelim.
 
@@ -32,3 +32,19 @@ Giriş bölümünde ekranı üst/alt olacak şekilde iki gruba ayırmıştık. B
 Bu üst grupta tüm giriş işlemlerini bitirdikten sonra "" butonunu kullanarak seçimlerimizi alt gruba ekliyoruz.
 
 **2. Kutu ve palet barkodlarının düzenlenmesi**
+
+Üst grup yapılan seçimler alt gruba eklendiği esnada sistem üst grupta seçimi yapılan paketlerin her biri için paket barkodlarını oluşturacaktır. Alt grupta sevk belgesi kaydı öncesi Palet barkodu oluşturma opsiyonu sunulmaktadır.
+
+Bu işlem için alt grup tablo üzerinden paletlenen kalemlerin seçimi yapıldıktan sonra "Palet barkod" butonuna basılır, gelen seçim ekranından Palet kodu seçilerek sistemin seçilen satırlar için barkod üretmesi sağlanabilir.
+
+**3. İrsaliye numrası girilerek sevk belgelerinin sisteme kaydı**
+
+Barkod düzenlemeleri sonrası irsaliye (sevk belge) numarası girilerek belgenin sisteme kaydı sağlanır. Önceden kaydedilmiş bir belge orta barda yer alan sevk belge no kutucuğuna irsaliye numarası girilerek ekrana alınabilir. Bu kayıtlı belge üzerinde yeni sipariş kalemi eklemi , palet barkod düzenleme ve yeniden kayıt işlemleri yapılabilir.
+
+Tüm işlemler tamamlandıktan sonra ekranın alt barında yer alan barkod üret butonları ile kutu ve palet barkodları oluşturularak fiziksel ortamda ürünlerin bu barkodlarla etiketlenmesi sağlanır.
+
+**4. Asn çekimi**
+
+Detayları kendi uygulama konu başlığı altında anlatılacak olan uygulama hakkında özet bilgi vermek gerekirse, sisteme kaydı yapılmış olan sevk belgesi üzerinden Sağlayıcıya asn çekiminde kullanılan ekrandır diyebiliriz.
+
+Sağlayıcının tercihine bağlı olarak belirlenen asn dosya formatı konusunda müdahale şansınız bulunmamaktadır. Sisteme dahil ettiğiniz sevk belgelerini Sağlayıcının tercihine bağlı asn formatında kapalı ortamda gönderdiğiniz uygulamadır.
