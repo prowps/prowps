@@ -32,13 +32,13 @@ Giriş bölümünde ekranı üst/alt olacak şekilde iki gruba ayırmıştık. B
 Bu üst grupta tüm giriş işlemlerini bitirdikten sonra "Yeni sevk referansı" numarasını giriyor ve "Paket Oluştur" yada "Karma Paket Oluştur" butonunu kullanarak seçimlerimizi alt gruba ekliyoruz.
 
 :Paket: Aynı kodlu ürünlerin girdiği paketleme tipi
-:Karma Paket: Farklı kodlu ürünlerin girebileceği paketleme tipi
+:Karma Paket: Farklı kodlu ürünlerin girdiği paketleme tipi
 
 **2. Kutu ve palet barkodlarının düzenlenmesi**
 
-Üst grup yapılan seçimler alt gruba eklendiği esnada sistem üst grupta seçimi yapılan paketlerin her biri için paket barkodlarını oluşturacaktır. Alt grupta sevk belgesi kaydı öncesi Palet barkodu oluşturma opsiyonu sunulmaktadır.
+Üst grup yapılan seçimler alt gruba eklendiği esnada sistem üst grupta seçimi yapılan satırların her birinin her paketi için seçime göre paket yada karma paket barkodlarını oluşturacaktır. Alt grupta sevk belgesi üzerine Palet barkodu oluşturma opsiyonu sunulmaktadır.
 
-Bu işlem için alt grup tablo üzerinden paletlenen kalemlerin seçimi yapıldıktan sonra "Palet barkod" butonuna basılır, gelen seçim ekranından Palet kodu seçilerek sistemin seçilen satırlar için barkod üretmesi sağlanabilir.
+Bu işlem için alt grup tablo üzerinden paletlenen kalemlerin seçimi yapıldıktan sonra "Palet barkod" butonuna basılır, gelen seçim ekranından "Palet kodu" seçilerek sistemin seçilen satırlar için barkod üretmesi sağlanır.
 
 **3. İrsaliye numrası girilerek sevk belgelerinin sisteme kaydı**
 
