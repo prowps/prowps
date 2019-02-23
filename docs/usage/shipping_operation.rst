@@ -27,9 +27,12 @@ Giriş bölümünde ekranı üst/alt olacak şekilde iki gruba ayırmıştık. B
 .. image:: img/shipping_operation_2.png
    :align: center
    
-Üst grupta bulunan tabloda işlem yapılacak satır seçili hale getirildikten sonra tablonun sonunda yer alan paket tipi, paket içi ürün adedi ve işlem miktarı alanları doldurulur. Öncelikli olarak "Sağlayıcı" tarafından tanımlanmış paketleme tiplerinden birini seçerek işe başlıyoruz, paketleme tipi seçimi sonrası sistemde tanımlı paket içi miktar bilgisi tabloya eklenecek bizlerde son olarak işlem miktarını sistemin izin verdiği boyutta (sipariş açık miktarını aşmayacak şekilde) giriyor olacağız.
+Üst grupta bulunan tabloda işlem yapılacak satır seçili hale getirildikten sonra tablonun sonunda yer alan "Paket Tipi", "Paket İçi Miktar" ve "İşlem Miktarı" alanları doldurulur. Öncelikli olarak "Sağlayıcı" tarafından tanımlanmış paketleme tiplerinden birini seçerek işe başlıyoruz, paketleme tipi seçimi sonrası sistemde tanımlı paket içi miktar bilgisi tabloya eklenecek bizlerde son olarak işlem miktarını sistemin izin verdiği boyutta (sipariş açık miktarını aşmayacak şekilde) giriyor olacağız.
 
-Bu üst grupta tüm giriş işlemlerini bitirdikten sonra "" butonunu kullanarak seçimlerimizi alt gruba ekliyoruz.
+Bu üst grupta tüm giriş işlemlerini bitirdikten sonra "Yeni sevk referansı" numarasını giriyor ve "Paket Oluştur" yada "Karma Paket Oluştur" butonunu kullanarak seçimlerimizi alt gruba ekliyoruz.
+
+** Paket: Aynı kodlu ürünlerin girdiği paketleme tipi
+** Karma Paket: Farklı kodlu ürünlerin girebileceği paketleme tipi
 
 **2. Kutu ve palet barkodlarının düzenlenmesi**
 
