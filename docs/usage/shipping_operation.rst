@@ -20,4 +20,4 @@ Bu uygulama üzerinden gerçekleşen veya planlanan sevkiyat bilgilerini sisteme
 
 Şimdi sırasıyla bu işlemlerin nasıl yapıldığını inceleyelim.
 
-** 1. Açık kalemler listesinden sevkiyata konu olan kalemlerin seçimi **
+**1. Açık kalemler listesinden sevkiyata konu olan kalemlerin seçimi**
