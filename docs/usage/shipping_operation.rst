@@ -31,8 +31,8 @@ Giriş bölümünde ekranı üst/alt olacak şekilde iki gruba ayırmıştık. B
 
 Bu üst grupta tüm giriş işlemlerini bitirdikten sonra "Yeni sevk referansı" numarasını giriyor ve "Paket Oluştur" yada "Karma Paket Oluştur" butonunu kullanarak seçimlerimizi alt gruba ekliyoruz.
 
-** Paket: Aynı kodlu ürünlerin girdiği paketleme tipi
-** Karma Paket: Farklı kodlu ürünlerin girebileceği paketleme tipi
+:Paket: Aynı kodlu ürünlerin girdiği paketleme tipi
+:Karma Paket: Farklı kodlu ürünlerin girebileceği paketleme tipi
 
 **2. Kutu ve palet barkodlarının düzenlenmesi**
 
