@@ -16,4 +16,4 @@ Bu uygulama üzerinden gerçekleşen veya planlanan sevkiyat bilgilerini sisteme
 1. Açık kalemler listesinden sevkiyata konu olan kalemlerin seçimi
 2. Kutu ve palet barkodlarının düzenlenmesi
 3. İrsaliye numrası girilerek sevk belgelerinin sisteme kaydı
-**4. Asn çekimi (diğer bir konu başlığında) anlatılacak**
+4. **Asn çekimi (diğer bir konu başlığında) anlatılacak**
